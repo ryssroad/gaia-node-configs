@@ -1,6 +1,6 @@
 {
     "address": "",
-    "chat": "https://huggingface.co/gaianet/Qwen3-1.7B-GGUF/resolve/main/Qwen3-4B-Q5_K_M.gguf",
+    "chat": "https://huggingface.co/gaianet/Qwen3-1.7B-GGUF/resolve/main/Qwen3-1.7B-Q5_K_M.gguf",
     "chat_ctx_size": "128000",
     "chat_batch_size": "16",
     "description": "This GaiaNet node config with a Qwen3 1.7B model.",
